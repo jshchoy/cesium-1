@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
 <img src="https://github.com/CesiumGS/cesium/wiki/logos/Cesium_Logo_Color.jpg" width="60%" />
 </p>
 
